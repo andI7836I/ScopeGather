@@ -17,7 +17,7 @@ ScopeGather provides a comprehensive list of tools and methodologies used in the
 
 This section contains a list of tools specifically designed for information gathering and reconnaissance. Each tool is accompanied by a brief description, installation instructions, and usage guidelines.
 
-- Tool 1: Description and instructions.
+- [crt.sh](https://github.com/andI7836I/ScopeGather/crt.sh): Collects and indexes SSL/TLS certificates
 
 Please refer to the dedicated directories in this repository for detailed information on each tool.
 
