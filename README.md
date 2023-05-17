@@ -23,6 +23,8 @@ This section contains a list of tools specifically designed for information gath
 - [ripe db](https://github.com/andI7836I/ScopeGather/tree/main/ripedb): database of Internet resources such as IP addresses and Autonomous System Numbers (ASNs)
 - [arin db](https://github.com/andI7836I/ScopeGather/tree/main/arindb): ARIN (American Registry for Internet Numbers) database
 - [ipv4info](https://github.com/andI7836I/ScopeGather/tree/main/ipv4info): information about IPv4 addresses
+- [dnscan](https://github.com/andI7836I/ScopeGather/tree/main/dnscan): gathering subdomains and discovering DNS information
+- [amass](https://github.com/andI7836I/ScopeGather/tree/main/amass): network mapping and information gathering
 
 Please refer to the dedicated directories in this repository for detailed information on each tool.
 

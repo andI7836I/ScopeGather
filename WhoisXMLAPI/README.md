@@ -1,7 +1,5 @@
 # WhoisXMLAPI
 
-![WhoisXMLAPI Logo](whoisxmlapi_logo.png)
-
 WhoisXMLAPI is a powerful tool for retrieving comprehensive WHOIS information about domain names. It allows you to gather essential details regarding domain ownership, registration dates, contact information, and more. This tool proves invaluable during reconnaissance and information gathering phases of penetration testing engagements.
 
 ## Getting Started
