@@ -17,11 +17,12 @@ ScopeGather provides a comprehensive list of tools and methodologies used in the
 
 This section contains a list of tools specifically designed for information gathering and reconnaissance. Each tool is accompanied by a brief description, installation instructions, and usage guidelines.
 
-- [crt.sh](https://github.com/andI7836I/ScopeGather/crt.sh): Collects and indexes SSL/TLS certificates
+- [crt.sh](https://github.com/andI7836I/ScopeGather/tree/main/crt.sh): Collects and indexes SSL/TLS certificates
 - [viewdns](https://github.com/andI7836I/ScopeGather/viewdns): conducting DNS-related queries and gathering information about domain
-- [WhoisXMLAPI](https://github.com/andI7836I/ScopeGather/WhoisXMLAPI): WHOIS information about domain names
-- [ripe db](https://github.com/andI7836I/ScopeGather/ripedb): database of Internet resources such as IP addresses and Autonomous System Numbers (ASNs)
-- [arin db](https://github.com/andI7836I/ScopeGather/arindb): ARIN (American Registry for Internet Numbers) database
+- [WhoisXMLAPI](https://github.com/andI7836I/ScopeGather/tree/main/WhoisXMLAPI): WHOIS information about domain names
+- [ripe db](https://github.com/andI7836I/ScopeGather/tree/main/ripedb): database of Internet resources such as IP addresses and Autonomous System Numbers (ASNs)
+- [arin db](https://github.com/andI7836I/ScopeGather/tree/main/arindb): ARIN (American Registry for Internet Numbers) database
+- [ipv4info](https://github.com/andI7836I/ScopeGather/tree/main/ipv4info): information about IPv4 addresses
 
 Please refer to the dedicated directories in this repository for detailed information on each tool.
 

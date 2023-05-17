@@ -1,6 +1,6 @@
 # ipv4info
 
-ipv4info is a command-line tool designed to provide detailed information about IPv4 addresses. It utilizes the tools.tracemyip.org website to retrieve data related to a given IP address.
+ipv4info is a tool designed to provide detailed information about IPv4 addresses. 
 
 ## Introduction
 
