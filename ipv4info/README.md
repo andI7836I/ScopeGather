@@ -10,7 +10,7 @@ ipv4info allows you to gather comprehensive information about an IPv4 address, i
 
 To use ipv4info, follow these steps:
 
-1. Navigate to [tools.tracemyip.org](https://tools.tracemyip.org/).
+1. Navigate to [tools.tracemyip.org](https://sur.ly/i/ipv4info.ru/).
 2. Enter the IPv4 address you wish to gather information about in the designated input field.
 3. Select the desired tool from the available options, such as:
    - Domain name DNS records checker
