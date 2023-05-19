@@ -20,7 +20,7 @@ This section contains a list of tools specifically designed for information gath
 - [crt.sh](https://github.com/andI7836I/ScopeGather/tree/main/crt.sh) ([link](https://crt.sh)): Collects and indexes SSL/TLS certificates
 - [viewdns](https://github.com/andI7836I/ScopeGather/tree/main/viewdns) ([link](https://viewdns.info)): conducting DNS-related queries and gathering information about domain
 - [WhoisXMLAPI](https://github.com/andI7836I/ScopeGather/tree/main/WhoisXMLAPI) ([link](https://www.whoisxmlapi.com/)): WHOIS information about domain names
-- [ripe db](https://github.com/andI7836I/ScopeGather/tree/main/ripedb) ([link](https://www.ripe.net/)): database of Internet resources such as IP addresses and Autonomous System Numbers (ASNs)
+- [ripe db](https://github.com/andI7836I/ScopeGather/tree/main/ripedb) ([link](https://www.ripe.net/)): database of Internet resources such as IP addresses and Autonomous System Numbers 
 - [arin db](https://github.com/andI7836I/ScopeGather/tree/main/arindb) ([link](https://www.arin.net/)): ARIN (American Registry for Internet Numbers) database
 - [ipv4info](https://github.com/andI7836I/ScopeGather/tree/main/ipv4info) ([link](https://sur.ly/i/ipv4info.ru/)): information about IPv4 addresses
 - [dnscan](https://github.com/andI7836I/ScopeGather/tree/main/dnscan) ([link](https://github.com/rbsec/dnscan)): gathering subdomains and discovering DNS information
