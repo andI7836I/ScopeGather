@@ -22,6 +22,9 @@ This section contains a list of tools specifically designed for information gath
 - [WhoisXMLAPI](https://github.com/andI7836I/ScopeGather/tree/main/WhoisXMLAPI) ([link](https://www.whoisxmlapi.com/)): WHOIS information about domain names
 - [ripe db](https://github.com/andI7836I/ScopeGather/tree/main/ripedb) ([link](https://www.ripe.net/)): database of Internet resources such as IP addresses and Autonomous System Numbers 
 - [arin db](https://github.com/andI7836I/ScopeGather/tree/main/arindb) ([link](https://www.arin.net/)): ARIN (American Registry for Internet Numbers) database
+- [AfriNIC db](https://github.com/andI7836I/ScopeGather/tree/main/AfriNIC) ([link](https://afrinic.net)): networks registered with AFRINIC (African Network Information Centre)
+- [lacnic db](https://github.com/andI7836I/ScopeGather/tree/main/LACNIC) ([link](https://lacnic.net)): LACNIC (Latin American and Caribbean Internet Address Registry) database
+- [apnic](https://github.com/andI7836I/ScopeGather/tree/main/apnic) ([link](https://apnic.net)): APNIC (Asia-Pacific Network Information Centre)
 - [ipv4info](https://github.com/andI7836I/ScopeGather/tree/main/ipv4info) ([link](https://sur.ly/i/ipv4info.ru/)): information about IPv4 addresses
 - [dnscan](https://github.com/andI7836I/ScopeGather/tree/main/dnscan) ([link](https://github.com/rbsec/dnscan)): gathering subdomains and discovering DNS information
 - [amass](https://github.com/andI7836I/ScopeGather/tree/main/amass) ([link](https://github.com/owasp-amass/amass)): network mapping and information gathering
