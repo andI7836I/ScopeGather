@@ -18,15 +18,15 @@ ScopeGather provides a comprehensive list of tools and methodologies used in the
 This section contains a list of tools specifically designed for information gathering and reconnaissance. Each tool is accompanied by a brief description, installation instructions, and usage guidelines.
 
 - [ripe db](https://github.com/andI7836I/ScopeGather/tree/main/tools/ripedb) ([link](https://www.ripe.net/)): database of Internet resources such as IP addresses and Autonomous System Numbers 
-- [arin db](https://github.com/andI7836I/ScopeGather/tree/main/arindb) ([link](https://www.arin.net/)): ARIN (American Registry for Internet Numbers) database
-- [AfriNIC db](https://github.com/andI7836I/ScopeGather/tree/main/AfriNIC) ([link](https://afrinic.net)): networks registered with AFRINIC (African Network Information Centre)
-- [lacnic db](https://github.com/andI7836I/ScopeGather/tree/main/LACNIC) ([link](https://lacnic.net)): LACNIC (Latin American and Caribbean Internet Address Registry) database
-- [crt.sh](https://github.com/andI7836I/ScopeGather/tree/main/crt.sh) ([link](https://crt.sh)): Collects and indexes SSL/TLS certificates
-- [viewdns](https://github.com/andI7836I/ScopeGather/tree/main/viewdns) ([link](https://viewdns.info)): conducting DNS-related queries and gathering information about domain
-- [WhoisXMLAPI](https://github.com/andI7836I/ScopeGather/tree/main/WhoisXMLAPI) ([link](https://www.whoisxmlapi.com/)): WHOIS information about domain names
-- [apnic](https://github.com/andI7836I/ScopeGather/tree/main/apnic) ([link](https://apnic.net)): APNIC (Asia-Pacific Network Information Centre)
-- [ipv4info](https://github.com/andI7836I/ScopeGather/tree/main/ipv4info) ([link](https://sur.ly/i/ipv4info.ru/)): information about IPv4 addresses
-- [dnscan](https://github.com/andI7836I/ScopeGather/tree/main/dnscan) ([link](https://github.com/rbsec/dnscan)): gathering subdomains and discovering DNS information
+- [arin db](https://github.com/andI7836I/ScopeGather/tree/main/tools/arindb) ([link](https://www.arin.net/)): ARIN (American Registry for Internet Numbers) database
+- [AfriNIC db](https://github.com/andI7836I/ScopeGather/tree/main/tools/AfriNIC) ([link](https://afrinic.net)): networks registered with AFRINIC (African Network Information Centre)
+- [lacnic db](https://github.com/andI7836I/ScopeGather/tree/main/tools/LACNIC) ([link](https://lacnic.net)): LACNIC (Latin American and Caribbean Internet Address Registry) database
+- [crt.sh](https://github.com/andI7836I/ScopeGather/tree/main/tools/crt.sh) ([link](https://crt.sh)): Collects and indexes SSL/TLS certificates
+- [viewdns](https://github.com/andI7836I/ScopeGather/tree/main/tools/viewdns) ([link](https://viewdns.info)): conducting DNS-related queries and gathering information about domain
+- [WhoisXMLAPI](https://github.com/andI7836I/ScopeGather/tree/main/tools/WhoisXMLAPI) ([link](https://www.whoisxmlapi.com/)): WHOIS information about domain names
+- [apnic](https://github.com/andI7836I/ScopeGather/tree/main/tools/apnic) ([link](https://apnic.net)): APNIC (Asia-Pacific Network Information Centre)
+- [ipv4info](https://github.com/andI7836I/ScopeGather/tree/main/tools/ipv4info) ([link](https://sur.ly/i/ipv4info.ru/)): information about IPv4 addresses
+- [dnscan](https://github.com/andI7836I/ScopeGather/tree/main/tools/dnscan) ([link](https://github.com/rbsec/dnscan)): gathering subdomains and discovering DNS information
 - [amass](https://github.com/andI7836I/ScopeGather/tree/main/amass) ([link](https://github.com/owasp-amass/amass)): network mapping and information gathering
 - [dnsrecon](https://github.com/andI7836I/ScopeGather/tree/main/dnsrecon) ([link](https://github.com/darkoperator/dnsrecon)): Top level domain Expansion
 - [subfinder](https://github.com/andI7836I/ScopeGather/tree/main/subfinder) ([link](https://github.com/darkoperator/dnsrecon)): Top level domain Expansion
