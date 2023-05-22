@@ -27,9 +27,12 @@ This section contains a list of tools specifically designed for information gath
 - [apnic](https://github.com/andI7836I/ScopeGather/tree/main/tools/apnic) ([link](https://apnic.net)): APNIC (Asia-Pacific Network Information Centre)
 - [ipv4info](https://github.com/andI7836I/ScopeGather/tree/main/tools/ipv4info) ([link](https://sur.ly/i/ipv4info.ru/)): information about IPv4 addresses
 - [dnscan](https://github.com/andI7836I/ScopeGather/tree/main/tools/dnscan) ([link](https://github.com/rbsec/dnscan)): gathering subdomains and discovering DNS information
-- [amass](https://github.com/andI7836I/ScopeGather/tree/main/amass) ([link](https://github.com/owasp-amass/amass)): network mapping and information gathering
-- [dnsrecon](https://github.com/andI7836I/ScopeGather/tree/main/dnsrecon) ([link](https://github.com/darkoperator/dnsrecon)): Top level domain Expansion
-- [subfinder](https://github.com/andI7836I/ScopeGather/tree/main/subfinder) ([link](https://github.com/darkoperator/dnsrecon)): Top level domain Expansion
+- [amass](https://github.com/andI7836I/ScopeGather/tree/main/tools/amass) ([link](https://github.com/owasp-amass/amass)): network mapping and information gathering
+- [dnsrecon](https://github.com/andI7836I/ScopeGather/tree/main/tools/dnsrecon) ([link](https://github.com/darkoperator/dnsrecon)): DNS infrastructure
+- [subfinder](https://github.com/andI7836I/ScopeGather/tree/main/tools/subfinder) ([link](https://github.com/darkoperator/dnsrecon)): Top level domain Expansion
+- [whois](https://github.com/andI7836I/ScopeGather/tree/main/tools/whois): domain info
+- [whatweb](https://github.com/andI7836I/ScopeGather/tree/main/tools/whatweb): web scanning
+- [nikto](https://github.com/andI7836I/ScopeGather/tree/main/tools/nikto): web server scanner
 
 
 Please refer to the dedicated directories in this repository for detailed information on each tool.
@@ -38,9 +41,9 @@ Please refer to the dedicated directories in this repository for detailed inform
 
 The resources section contains a compilation of useful websites, articles, and documentation related to company reconnaissance and information gathering. These resources can provide valuable insights, reference materials, and additional guidance for conducting successful assessments.
 
-- [link](http://websec.ca/kb/sql_injection)
-- [link](https://forum.antichat.ru/threads/424557/)
-- [link](https://forum.antichat.ru/threads/46016/ )
+- [sql_injection](http://websec.ca/kb/sql_injection)
+- [threads](https://forum.antichat.ru/threads/424557/)
+- [threads](https://forum.antichat.ru/threads/46016/ )
 - [link](https://rdot.org/forum/showthread.php?t=6 )
 - [link](https://rdot.org/forum/showthread.php?t=118)
 - [link](http://websec.wordpress.com/2010/02/22/exploiting-php-file-inclusion-overview/)
