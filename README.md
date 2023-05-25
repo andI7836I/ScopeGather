@@ -34,6 +34,7 @@ This section contains a list of tools specifically designed for information gath
 - [whatweb](https://github.com/andI7836I/ScopeGather/tree/main/tools/whatweb): web scanning
 - [nikto](https://github.com/andI7836I/ScopeGather/tree/main/tools/nikto): web server scanner
 - [hunter.io](https://github.com/andI7836I/ScopeGather/tree/main/tools/hunterio) ([link](https://hunter.io/)): email gathering
+- [dnstwist](https://github.com/andI7836I/ScopeGather/tree/main/tools/dnstwist) ([link](https://github.com/elceef/dnstwist)): email gathering
 
 
 Please refer to the dedicated directories in this repository for detailed information on each tool.
