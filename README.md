@@ -26,15 +26,15 @@ This section contains a list of tools specifically designed for information gath
 - [WhoisXMLAPI](https://github.com/andI7836I/ScopeGather/tree/main/tools/WhoisXMLAPI) ([link](https://www.whoisxmlapi.com/)): WHOIS information about domain names
 - [apnic](https://github.com/andI7836I/ScopeGather/tree/main/tools/apnic) ([link](https://apnic.net)): APNIC (Asia-Pacific Network Information Centre)
 - [ipv4info](https://github.com/andI7836I/ScopeGather/tree/main/tools/ipv4info) ([link](https://sur.ly/i/ipv4info.ru/)): information about IPv4 addresses
-- [dnscan](https://github.com/andI7836I/ScopeGather/tree/main/tools/dnscan) ([link](https://github.com/rbsec/dnscan)): gathering subdomains and discovering DNS information
-- [amass](https://github.com/andI7836I/ScopeGather/tree/main/tools/amass) ([link](https://github.com/owasp-amass/amass)): network mapping and information gathering
-- [dnsrecon](https://github.com/andI7836I/ScopeGather/tree/main/tools/dnsrecon) ([link](https://github.com/darkoperator/dnsrecon)): DNS infrastructure
-- [subfinder](https://github.com/andI7836I/ScopeGather/tree/main/tools/subfinder) ([link](https://github.com/darkoperator/dnsrecon)): Top level domain Expansion
-- [whois](https://github.com/andI7836I/ScopeGather/tree/main/tools/whois): domain info
-- [whatweb](https://github.com/andI7836I/ScopeGather/tree/main/tools/whatweb): web scanning
-- [nikto](https://github.com/andI7836I/ScopeGather/tree/main/tools/nikto): web server scanner
+- [dnscan](https://github.com/andI7836I/ScopeGather/tree/main/tools/dnscan) ([link](https://github.com/rbsec/dnscan)): CLI gathering subdomains and discovering DNS information
+- [amass](https://github.com/andI7836I/ScopeGather/tree/main/tools/amass) ([link](https://github.com/owasp-amass/amass)): CLI network mapping and information gathering
+- [dnsrecon](https://github.com/andI7836I/ScopeGather/tree/main/tools/dnsrecon) ([link](https://github.com/darkoperator/dnsrecon)): CLI DNS infrastructure
+- [subfinder](https://github.com/andI7836I/ScopeGather/tree/main/tools/subfinder) ([link](https://github.com/darkoperator/dnsrecon)): CLI Top level domain Expansion
+- [whois](https://github.com/andI7836I/ScopeGather/tree/main/tools/whois): CLI domain info
+- [whatweb](https://github.com/andI7836I/ScopeGather/tree/main/tools/whatweb): CLI web scanning
+- [nikto](https://github.com/andI7836I/ScopeGather/tree/main/tools/nikto): CLI web server scanner
 - [hunter.io](https://github.com/andI7836I/ScopeGather/tree/main/tools/hunterio) ([link](https://hunter.io/)): email gathering
-- [dnstwist](https://github.com/andI7836I/ScopeGather/tree/main/tools/dnstwist) ([link](https://github.com/elceef/dnstwist)): email gathering
+- [dnstwist](https://github.com/andI7836I/ScopeGather/tree/main/tools/dnstwist) ([link](https://github.com/elceef/dnstwist)): CLI Find lookalike domains
 
 
 Please refer to the dedicated directories in this repository for detailed information on each tool.
