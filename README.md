@@ -28,8 +28,9 @@ This section contains a list of tools specifically designed for information gath
 - [ipv4info](https://github.com/andI7836I/ScopeGather/tree/main/tools/ipv4info) ([link](https://sur.ly/i/ipv4info.ru/)): information about IPv4 addresses
 - [dnscan](https://github.com/andI7836I/ScopeGather/tree/main/tools/dnscan) ([link](https://github.com/rbsec/dnscan)): CLI gathering subdomains and discovering DNS information
 - [amass](https://github.com/andI7836I/ScopeGather/tree/main/tools/amass) ([link](https://github.com/owasp-amass/amass)): CLI network mapping and information gathering
+- [AlterX](https://github.com/andI7836I/ScopeGather/tree/main/tools/AlterX) ([link](https://github.com/owasp-amass/amass)): CLI network mapping and information gathering
 - [dnsrecon](https://github.com/andI7836I/ScopeGather/tree/main/tools/dnsrecon) ([link](https://github.com/darkoperator/dnsrecon)): CLI DNS infrastructure
-- [subfinder](https://github.com/andI7836I/ScopeGather/tree/main/tools/subfinder) ([link](https://github.com/darkoperator/dnsrecon)): CLI Top level domain Expansion
+- [subfinder](https://github.com/andI7836I/ScopeGather/tree/main/tools/subfinder) ([link](https://github.com/projectdiscovery/alterx)): CLI subdomain wordlist generator
 - [whois](https://github.com/andI7836I/ScopeGather/tree/main/tools/whois): CLI domain info
 - [whatweb](https://github.com/andI7836I/ScopeGather/tree/main/tools/whatweb): CLI web scanning
 - [nikto](https://github.com/andI7836I/ScopeGather/tree/main/tools/nikto): CLI web server scanner
