@@ -34,6 +34,7 @@ This section contains a list of tools specifically designed for information gath
 - [whois](https://github.com/andI7836I/ScopeGather/tree/main/tools/whois): CLI domain info
 - [whatweb](https://github.com/andI7836I/ScopeGather/tree/main/tools/whatweb): CLI web scanning
 - [nikto](https://github.com/andI7836I/ScopeGather/tree/main/tools/nikto): CLI web server scanner
+- [](https://github.com/andI7836I/ScopeGather/tree/main/tools/nikto): ([link](https://github.com/noptrix/lulzbuster)) CLI web directory and file enumeration tool
 - [hunter.io](https://github.com/andI7836I/ScopeGather/tree/main/tools/hunterio) ([link](https://hunter.io/)): email gathering
 - [dnstwist](https://github.com/andI7836I/ScopeGather/tree/main/tools/dnstwist) ([link](https://github.com/elceef/dnstwist)): CLI Find lookalike domains
 
