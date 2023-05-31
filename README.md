@@ -26,6 +26,7 @@ This section contains a list of tools specifically designed for information gath
 - [WhoisXMLAPI](https://github.com/andI7836I/ScopeGather/tree/main/tools/WhoisXMLAPI) ([link](https://www.whoisxmlapi.com/)): WHOIS information about domain names
 - [apnic](https://github.com/andI7836I/ScopeGather/tree/main/tools/apnic) ([link](https://apnic.net)): APNIC (Asia-Pacific Network Information Centre)
 - [ipv4info](https://github.com/andI7836I/ScopeGather/tree/main/tools/ipv4info) ([link](https://sur.ly/i/ipv4info.ru/)): information about IPv4 addresses
+- [Hackertarget](https://github.com/andI7836I/ScopeGather/tree/main/tools/Hackertarget) ([link](https://hackertarget.com)): Online Vulnerability Scanners
 - [dnscan](https://github.com/andI7836I/ScopeGather/tree/main/tools/dnscan) ([link](https://github.com/rbsec/dnscan)): CLI gathering subdomains and discovering DNS information
 - [amass](https://github.com/andI7836I/ScopeGather/tree/main/tools/amass) ([link](https://github.com/owasp-amass/amass)): CLI network mapping and information gathering
 - [AlterX](https://github.com/andI7836I/ScopeGather/tree/main/tools/AlterX) ([link](https://github.com/owasp-amass/amass)): CLI network mapping and information gathering
