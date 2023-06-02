@@ -40,6 +40,7 @@ This section contains a list of tools specifically designed for information gath
 - [hunter.io](https://github.com/andI7836I/ScopeGather/tree/main/tools/hunterio) ([link](https://hunter.io/)): email gathering
 - [dnstwist](https://github.com/andI7836I/ScopeGather/tree/main/tools/dnstwist) ([link](https://github.com/elceef/dnstwist)): CLI Find lookalike domains
 - [gobuster](https://github.com/andI7836I/ScopeGather/tree/main/tools/gobuster) ([link](https://github.com/OJ/gobuster)): CLI Find lookalike domains
+- [wpscan](https://github.com/andI7836I/ScopeGather/tree/main/tools/wpscan) ([link](https://github.com/wpscanteam/wpscan)): WordPress Security Scanner
 
 
 Please refer to the dedicated directories in this repository for detailed information on each tool.
