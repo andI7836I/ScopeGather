@@ -17,30 +17,30 @@ ScopeGather provides a comprehensive list of tools and methodologies used in the
 
 This section contains a list of tools specifically designed for information gathering and reconnaissance. Each tool is accompanied by a brief description, installation instructions, and usage guidelines.
 
-- [ripe db](https://github.com/andI7836I/ScopeGather/tree/main/tools/ripedb) ([link](https://www.ripe.net/)): database of Internet resources such as IP addresses and Autonomous System Numbers 
-- [arin db](https://github.com/andI7836I/ScopeGather/tree/main/tools/arindb) ([link](https://www.arin.net/)): ARIN (American Registry for Internet Numbers) database
-- [AfriNIC db](https://github.com/andI7836I/ScopeGather/tree/main/tools/AfriNIC) ([link](https://afrinic.net)): networks registered with AFRINIC (African Network Information Centre)
-- [lacnic db](https://github.com/andI7836I/ScopeGather/tree/main/tools/LACNIC) ([link](https://lacnic.net)): LACNIC (Latin American and Caribbean Internet Address Registry) database
-- [crt.sh](https://github.com/andI7836I/ScopeGather/tree/main/tools/crt.sh) ([link](https://crt.sh)): Collects and indexes SSL/TLS certificates
-- [viewdns](https://github.com/andI7836I/ScopeGather/tree/main/tools/viewdns) ([link](https://viewdns.info)): conducting DNS-related queries and gathering information about domain
-- [WhoisXMLAPI](https://github.com/andI7836I/ScopeGather/tree/main/tools/WhoisXMLAPI) ([link](https://www.whoisxmlapi.com/)): WHOIS information about domain names
-- [apnic](https://github.com/andI7836I/ScopeGather/tree/main/tools/apnic) ([link](https://apnic.net)): APNIC (Asia-Pacific Network Information Centre)
-- [ipv4info](https://github.com/andI7836I/ScopeGather/tree/main/tools/ipv4info) ([link](https://sur.ly/i/ipv4info.ru/)): information about IPv4 addresses
-- [Hackertarget](https://github.com/andI7836I/ScopeGather/tree/main/tools/Hackertarget) ([link](https://hackertarget.com)): Online Vulnerability Scanners
-- [dnscan](https://github.com/andI7836I/ScopeGather/tree/main/tools/dnscan) ([link](https://github.com/rbsec/dnscan)): CLI gathering subdomains and discovering DNS information
-- [amass](https://github.com/andI7836I/ScopeGather/tree/main/tools/amass) ([link](https://github.com/owasp-amass/amass)): CLI network mapping and information gathering
-- [AlterX](https://github.com/andI7836I/ScopeGather/tree/main/tools/AlterX) ([link](https://github.com/owasp-amass/amass)): CLI network mapping and information gathering
-- [dnsrecon](https://github.com/andI7836I/ScopeGather/tree/main/tools/dnsrecon) ([link](https://github.com/darkoperator/dnsrecon)): CLI DNS infrastructure
-- [subfinder](https://github.com/andI7836I/ScopeGather/tree/main/tools/subfinder) ([link](https://github.com/projectdiscovery/alterx)): CLI subdomain wordlist generator
-- [whois](https://github.com/andI7836I/ScopeGather/tree/main/tools/whois): CLI domain info
-- [whatweb](https://github.com/andI7836I/ScopeGather/tree/main/tools/whatweb): CLI web scanning
-- [nikto](https://github.com/andI7836I/ScopeGather/tree/main/tools/nikto): CLI web server scanner
-- [lulzbuster](https://github.com/andI7836I/ScopeGather/tree/main/tools/lulzbuster): ([link](https://github.com/noptrix/lulzbuster)) CLI web directory and file enumeration tool
-- [elona](https://github.com/andI7836I/ScopeGather/tree/main/tools/elona) ([link](https://github.com/TheYahya/enola)): CLI hunt down social media accounts
-- [hunter.io](https://github.com/andI7836I/ScopeGather/tree/main/tools/hunterio) ([link](https://hunter.io/)): email gathering
-- [dnstwist](https://github.com/andI7836I/ScopeGather/tree/main/tools/dnstwist) ([link](https://github.com/elceef/dnstwist)): CLI Find lookalike domains
-- [gobuster](https://github.com/andI7836I/ScopeGather/tree/main/tools/gobuster) ([link](https://github.com/OJ/gobuster)): CLI Find lookalike domains
-- [wpscan](https://github.com/andI7836I/ScopeGather/tree/main/tools/wpscan) ([link](https://github.com/wpscanteam/wpscan)): WordPress Security Scanner
+- [ripe db](./tools/ripedb/README.md) ([link](https://www.ripe.net/)): database of Internet resources such as IP addresses and Autonomous System Numbers 
+- [arin db](./tools/arindb/README.md) ([link](https://www.arin.net/)): ARIN (American Registry for Internet Numbers) database
+- [AfriNIC db](./tools/AfriNIC/README.md) ([link](https://afrinic.net)): networks registered with AFRINIC (African Network Information Centre)
+- [lacnic db](./tools/LACNIC/README.md) ([link](https://lacnic.net)): LACNIC (Latin American and Caribbean Internet Address Registry) database
+- [crt.sh](./tools/crt.sh/README.md) ([link](https://crt.sh)): Collects and indexes SSL/TLS certificates
+- [viewdns](./tools/viewdns/README.md) ([link](https://viewdns.info)): conducting DNS-related queries and gathering information about domain
+- [WhoisXMLAPI](./tools/WhoisXMLAPI/README.md) ([link](https://www.whoisxmlapi.com/)): WHOIS information about domain names
+- [apnic](./tools/apnic/README.md) ([link](https://apnic.net)): APNIC (Asia-Pacific Network Information Centre)
+- [ipv4info](./tools/ipv4info/README.md) ([link](https://sur.ly/i/ipv4info.ru/)): information about IPv4 addresses
+- [Hackertarget](./tools/Hackertarget/README.md) ([link](https://hackertarget.com)): Online Vulnerability Scanners
+- [dnscan](./tools/dnscan/README.md) ([link](https://github.com/rbsec/dnscan)): CLI gathering subdomains and discovering DNS information
+- [amass](./tools/amass/README.md) ([link](https://github.com/owasp-amass/amass)): CLI network mapping and information gathering
+- [AlterX](./tools/AlterX/README.md) ([link](https://github.com/owasp-amass/amass)): CLI network mapping and information gathering
+- [dnsrecon](./tools/dnsrecon/README.md) ([link](https://github.com/darkoperator/dnsrecon)): CLI DNS infrastructure
+- [subfinder](./tools/subfinder/README.md) ([link](https://github.com/projectdiscovery/alterx)): CLI subdomain wordlist generator
+- [whois](./tools/whois/README.md): CLI domain info
+- [whatweb](./tools/whatweb/README.md): CLI web scanning
+- [nikto](./tools/nikto/README.md): CLI web server scanner
+- [lulzbuster](./tools/lulzbuster/README.md): ([link](https://github.com/noptrix/lulzbuster)) CLI web directory and file enumeration tool
+- [elona](./tools/elona/README.md) ([link](https://github.com/TheYahya/enola)): CLI hunt down social media accounts
+- [hunter.io](./tools/hunterio/README.md) ([link](https://hunter.io/)): email gathering
+- [dnstwist](./tools/dnstwist/README.md) ([link](https://github.com/elceef/dnstwist)): CLI Find lookalike domains
+- [gobuster](./tools/gobuster/README.md) ([link](https://github.com/OJ/gobuster)): CLI Find lookalike domains
+- [wpscan](./tools/wpscan/README.md) ([link](https://github.com/wpscanteam/wpscan)): WordPress Security Scanner
 
 
 Please refer to the dedicated directories in this repository for detailed information on each tool.
